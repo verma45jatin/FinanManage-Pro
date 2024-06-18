@@ -1,8 +1,8 @@
-**🚀 FINANMANAGE-PRO**
+#**🚀 FINANMANAGE-PRO**
 Finance Dashboard App that has Machine Learning Predictions 
 
-**Frontend:**
-Starter Application:**Vite**
+#**Frontend:**
+#Starter Application:**Vite**
 State Management: **Redux Toolkit**
 Component Library: **Material UI**
 Charts: Recharts
